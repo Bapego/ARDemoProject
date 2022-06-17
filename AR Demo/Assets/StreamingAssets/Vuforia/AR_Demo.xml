@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="67595_4f886beb6f" size="15.000000 28.987730" />
+    <ImageTarget name="book" size="1.000000 1.500000" />
+    <ImageTarget name="1200px-2018_FIFA_World_Cup" size="1.000000 1.103333" />
+  </Tracking>
+</QCARConfig>
